@@ -43,12 +43,11 @@ header li {
 
 @media all and (max-width:428px) {
     header {
-        width: 428px;
+        width: 80%;
         flex-direction: row-reverse;
         justify-content: flex-end;
         height: 137px;
         margin: 0;
-        padding: 11px;
     }
     header ul {
         display: none;
